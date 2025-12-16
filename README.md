@@ -102,7 +102,7 @@ CreditCard-Fraud-Detection/
 ├── CreditCardFraudDetection.ipynb
 ├── README.md
 ├── data/
-│   └── creditcard.csv        # ignored (not committed)
+│   └── creditcard.csv 
 ├── images/
 │   └── class_distribution.png (optional)
 └── requirements.txt          (optional)
